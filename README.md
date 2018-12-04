@@ -4,7 +4,7 @@ This project was built on Python 3.5.2.
 
 ## Setup:
 
-### Create virtual environment to test the project.
+### Criar ambiente virtual para testar o projeto.
 
 ```
 
@@ -12,16 +12,16 @@ This project was built on Python 3.5.2.
 
 ```
 
-  Where python3 is the environment path of your Python 3 installation.
+  Onde python3 é o path do ambiente para a instalação do Python.
 
-### Activate Environment
+### Ativar virtualenv
 
 ```
 source intelenv/bin/activate
 
 ```
 
-### Install Dependencies
+### Instalar bibliotecas
 
 ```
 
